@@ -1,0 +1,24 @@
+.contact-page header{
+    background-image: linear-gradient(rgba(0,0,0.3),
+     rgba(0,0,0,0.3)), 
+    url('../utils/img/contact-page-img.jpg'); 
+    height: 50vh;
+} 
+
+/* button[type= "submit"]{ 
+    color:white;
+    background-color: rgba(7, 160, 76, 0.7); 
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding:10px;
+    margin-left: 225px;
+    
+}
+
+button[type= "submit"]:hover{ 
+
+    background-color: rgba(7, 160, 76, 1.4); 
+   
+    
+} */
